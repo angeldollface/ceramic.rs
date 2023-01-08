@@ -2,11 +2,11 @@
 target = "public/index.html"
 release = false
 dist = "dist"
-public_url = "/ceramic.rs"
+public_url = "/ceramic.rs/"
 
 [serve]
 address = "127.0.0.1"
 port = 8080
 open = false
 no_autoreload = false
-public_url = "/ceramic.rs"
+public_url = "/ceramic.rs/"
