@@ -10,8 +10,8 @@ Some time ago I was set a challenge for writing code that validates IMEI numbers
 
 ## LINKS :earth_americas:
 
-- Library implementation in ECMA Script: [VIEW](https://github.com/angeldollface/luhny.rs)
-- Library implementation in Rust: [VIEW](https://github.com/angeldollface/luhny)
+- Library implementation in ECMA Script: [VIEW](https://github.com/angeldollface/luhny)
+- Library implementation in Rust: [VIEW](https://github.com/angeldollface/luhny.rs)
 - Web app implementation in Vue.js:[VIEW](https://github.com/angeldollface/ceramic)
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
