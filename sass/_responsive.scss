@@ -1,0 +1,48 @@
+/*
+CERAMIC.RS by Alexander Abraham, a.k.a. "Angel Dollface".
+Licensed under the MIT license.
+*/
+
+/*This file styles the responsive view of Ceramic.rs.*/
+
+@media screen and (max-width: 800px) {
+    $stdPadding: 10px;
+    h1 {
+        font-size: 40px;
+    }
+    div.content {
+        width: 80vw;
+    }
+    input[type=text] {
+        font-size: 25px;
+    }
+    button {
+        font-size: 25px;
+    }
+
+    button:hover {
+        padding: 15px;
+    }
+
+    p.result {
+        font-size: 25px;
+    }
+    h2.info {
+        font-size: 30px;
+    }
+    h3.info {
+        font-size: 27px;
+    }
+    
+    p.info {
+        font-size: 25px;    
+    }
+    
+    p.footer {
+        font-size: 25px;
+    }
+    
+    a.footer {
+        font-size: 25px;
+    }
+}

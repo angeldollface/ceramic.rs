@@ -5,7 +5,7 @@ Licensed under the MIT license.
 
 // We load the data processing
 // component.
-use super::luhny::*;
+use luhny::*;
 
 // We load Yew's APIs.
 use yew::prelude::*;

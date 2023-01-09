@@ -3,10 +3,6 @@ CERAMIC.RS by Alexander Abraham, a.k.a. "Angel Dollface".
 Licensed under the MIT license.
 */
 
-// Declaring the
-// processing library.
-pub mod luhny;
-
 // We define and "export"
 // the information component.
 pub mod InfoCog;

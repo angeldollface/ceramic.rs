@@ -18,3 +18,4 @@ gloo = "0.8.0"
 wasm-bindgen = "0.2.83"
 yew = { version = "0.20.0", features = ["csr"] }
 web-sys = { version = "0.3.60", features = [ "HtmlInputElement" ] }
+luhny = { git = "https://github.com/angeldollface/luhny.rs", version = "1.0.0" }

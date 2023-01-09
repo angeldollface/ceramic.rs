@@ -25,7 +25,7 @@ To view a live deployed version of this project, click here: [VIEW](https://ange
 - 3.) Copy this IMEI number or write it down.
 - 4.) Put the number into the input field.
 - 5.) Click "VALIDATE"!
-- 6.) Receive the status of your IMEI number from the text below the "VALIDATE" button that says `IMEI valid: Type something!`.
+- 6.) Receive the status of your IMEI number from the text below the "VALIDATE" button that says `IMEI valid: Enter an IMEI number!`.
 
 Note: You can use this fake IMEI for testing: `356728113476259`
 
@@ -59,13 +59,13 @@ cd ceramic.rs
 - 4.) Serve the app locally (This will serve the app locally on [`http://127.0.0.1:8080/ceramic.rs/`](http://127.0.0.1:8080/ceramic.rs/).):
 
 ```bash
-trunk --config ./trunk.toml serve --release
+trunk --config trunk.toml serve --release
 ```
 
 - 5.) If you want to build the app into a bundle to deploy to a server, run the command below. This will produce a directory called `dist` with the bundle inside it.
 
 ```bash
-trunk --config ./trunk.toml build --release
+trunk --config trunk.toml build --release
 ```
 
 - 5.) Enjoy! :heart_on_fire:
