@@ -6,7 +6,13 @@
 
 ## ABOUT :books:
 
-Some time ago I was set a challenge for writing code that validates IMEI numbers in my CS class in university. Because I thought the problem was interesting, I grappled with it and wrote a small app in Vue.js that does exactly this. You can find the app's repository [here](https://github.com/angeldollface/ceramic). This repository contains the source code for my re-implementation of this app in Yew and Rust. :heart:
+Some time ago I was set a challenge for writing code that validates IMEI numbers in my CS class in university. Because I thought the problem was interesting, I grappled with it and wrote a small app in Vue.js that does exactly this. You can find the app's repository in the section below. This repository contains the source code for my re-implementation of this app in Yew and Rust. :heart:
+
+## LINKS :globe:
+
+- Library implementation in ECMA Script: [VIEW](https://github.com/angeldollface/luhny.rs)
+- Library implementation in Rust: [VIEW](https://github.com/angeldollface/luhny)
+- Web app implementation in Vue.js:[VIEW](https://github.com/angeldollface/ceramic)
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
