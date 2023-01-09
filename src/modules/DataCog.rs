@@ -110,8 +110,8 @@ pub fn DataCog() -> Html {
     // Main "div" container, "input", "button", and feedback.
     return html!{
         <div class="content">
-         <input type="text" {onchange} placeholder={"YOUR IMEI GOES HERE."}/>
-         <button {onclick}>{ "Echo" }</button>
+         <input type="text" {onchange} placeholder={ "YOUR IMEI GOES HERE." }/>
+         <button {onclick}>{ "VALIDATE" }</button>
          <p class="result">{ format!("IMEI valid: {}", &result.clone().to_string()) }</p>
         </div>
     }
