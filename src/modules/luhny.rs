@@ -4,7 +4,8 @@ Licensed under the MIT license.
 */
 
 // This file contains my implementation of the Luhn algorithm.
-// The library from GitHub (also mine) didn't work.
+// The library from GitHub (also mine) does work with non-WASM
+// binaries but not with WASM binaries.
 
 // Gets the index of an item in a vector 
 // with items of type "String".
