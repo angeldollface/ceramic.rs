@@ -626,7 +626,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('ceramic-rs-c24aebc2512b3637_bg.wasm', import.meta.url);
+        input = new URL('ceramic-rs-571571fe688a7796_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
