@@ -50,10 +50,16 @@ git clone https://github.com/angeldollface/ceramic.rs.git
 cd ceramic.rs
 ```
 
-- 4.) Serve the app locally:
+- 4.) Serve the app locally (This will serve the app locally on [`http://127.0.0.1:8080/ceramic.rs/`](http://127.0.0.1:8080/ceramic.rs/).):
 
 ```bash
-trunk --config ./trunk.toml
+trunk --config ./trunk.toml serve --release
+```
+
+- 5.) If you want to build the app into a bundle to deploy to a server, run the command below. This will produce a directory called `dist` with the bundle inside it.
+
+```bash
+trunk --config ./trunk.toml build --release
 ```
 
 - 5.) Enjoy! :heart_on_fire:
