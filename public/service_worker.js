@@ -1,6 +1,7 @@
-var cacheName = 'ceramic-rs';
+var cacheName = 'ceramic.rs';
 var filesToCache = [
   './',
+  './manifest.json',
   './index.html',
   './pkg/bundle.js',
   './pkg/yew_wasm_pack_minimal_bg.wasm'
