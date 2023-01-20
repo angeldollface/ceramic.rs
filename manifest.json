@@ -1,0 +1,14 @@
+{
+    "name": "CERAMIC.RS",
+    "short_name": "CERAMIC.RS",
+    "icons": [{
+      "src": "https://angeldollface.art/assets/images/site/favicons/android-icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+    "lang": "en-US",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "black",
+    "theme_color": "#EA1573"
+}
